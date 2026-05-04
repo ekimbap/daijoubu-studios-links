@@ -1,0 +1,22 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Daijoubu Studios</title>
+  <desc id="desc">Daijoubu Studios monogram avatar</desc>
+  <defs>
+    <linearGradient id="bg" x1="40" y1="24" x2="198" y2="218" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f2b8ff"/>
+      <stop offset="0.48" stop-color="#8b45a7"/>
+      <stop offset="1" stop-color="#1b0822"/>
+    </linearGradient>
+    <radialGradient id="shine" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(78 64) rotate(50) scale(142)">
+      <stop stop-color="#ffffff" stop-opacity="0.52"/>
+      <stop offset="0.42" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="240" height="240" rx="120" fill="#18071e"/>
+  <circle cx="120" cy="120" r="108" fill="url(#bg)"/>
+  <circle cx="120" cy="120" r="108" fill="url(#shine)"/>
+  <path d="M76 71h42c32 0 53 19 53 49s-21 49-53 49H76V71Zm39 72c16 0 27-8 27-23s-11-23-27-23h-11v46h11Z" fill="#fff4ff"/>
+  <path d="M104 98h24c10 0 17 3 22 8 5 4 7 10 7 18 0 14-9 24-25 29l25 16h-32l-21-15V98Z" fill="#2b1230" opacity="0.2"/>
+  <text x="120" y="197" text-anchor="middle" fill="#fff4ff" font-family="Open Sans, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="0">STUDIOS</text>
+</svg>
